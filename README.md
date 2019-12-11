@@ -1,5 +1,7 @@
 # README
 
+# lesson_blog
+
 ## 概要
 Rails lesson用に作成したブログ型アプリケーション  
 
